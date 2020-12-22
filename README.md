@@ -1,5 +1,7 @@
 # Ad-Whitelist-Test
 
+A Whitelist filter for pi-hole/AdguardHome.
+
 A bunch of domain that are ok to run to get a good experience.
 
 The Name of the file corresponds with the website you want to work best with.

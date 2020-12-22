@@ -15,3 +15,5 @@ The Name of the file corresponds with the website you want to work best with.
 *Twitch* https://raw.githubusercontent.com/Theice101/Ad-Whitelist-Test/main/White-List-Twitch
 
 *Twitter* https://raw.githubusercontent.com/Theice101/Ad-Whitelist-Test/main/White-List-Twitter
+
+*GitHub* https://raw.githubusercontent.com/Theice101/Ad-Whitelist-Test/main/White-List-GitHub

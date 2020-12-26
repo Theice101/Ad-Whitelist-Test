@@ -19,3 +19,5 @@ The Name of the file corresponds with the website you want to work best with.
 *GitHub* https://raw.githubusercontent.com/Theice101/Ad-Whitelist-Test/main/White-List-GitHub
 
 *Amazon (Not Perfect)* https://raw.githubusercontent.com/Theice101/Ad-Whitelist-Test/main/White-List-Amazon
+
+*Soundcloud* https://raw.githubusercontent.com/Theice101/Ad-Whitelist-Test/main/White-List-SoundCloud

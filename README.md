@@ -1,3 +1,8 @@
+# Update
+
+No More update to this rep due to me not being interested. Archiving it.
+
+
 # Ad-Whitelist-Test
 
 A Whitelist filter for pi-hole/AdguardHome.
